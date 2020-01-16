@@ -1,0 +1,8 @@
+{
+	"name": "EnchantedIndustries",
+	"version": "0.0.1",
+	"title": "Enchanted Industries & Chemicals",
+	"author": "Enchant3d",
+	"factorio_version": "0.17",
+	"description": "Makes chemical plants, petroleum refining much more complex. It also adds new resources like aluminium, nickel, chromium, lead and iridium. Require Enchanted Electronics."
+}
