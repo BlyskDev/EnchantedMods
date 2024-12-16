@@ -1,5 +1,5 @@
 # EnchantedMods
-All mods of Enchant3d for Factorio.  
+All mods of my mods for Factorio.  
 ***Mods:***  
 **Enchanted Electronics (0.1.0)**  
 **Enchanted Industries  (0.0.1)**  
